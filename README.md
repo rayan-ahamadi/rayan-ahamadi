@@ -6,7 +6,7 @@
 
 👨‍💻 Je suis actuellement étudiant en première année d'informatique à l'école La Plateforme à Marseille.
 
-🔍 Je cherche une entreprise pour m'accueilir en alternance pour ma deuxième année.
+🔍 Je recherche une entreprise dans la région pour m'accueilir en alternance pour ma deuxième année.
 
 Mes coordonées : 
 
