@@ -14,12 +14,13 @@ Email : rayan.ahamadi@laplateforme.io
 
 Linkedin : https://www.linkedin.com/in/rayan-ahamadi
 
+ ```python
     me = Student("Rayan", "AHAMADI", "rayan.ahamadi[at]laplateforme.io")
     me.addInterests( [ "Python", "Logiciel", "Java", "Android","ios" ] )
     length, begin = "2 ans minimum", "en Septembre 2023"
     for interest in me.getInterests():
         listen_to_me = f"Je recherche une alternance en {interest.upper()} pour {length} à partir de {begin}"
-        print(listen_to_me)
+        print(listen_to_me)```
 
 
 
