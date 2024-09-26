@@ -2,11 +2,11 @@
 
 ### Salut ! 👋
 
-💻 Je m'appelle Rayan, un développeur logiciel de Marseille en France. 
+💻 Je m'appelle Rayan, un développeur web de Marseille en France. 
 
-👨‍💻 Je suis actuellement étudiant en première année d'informatique à l'école La Plateforme à Marseille.
+👨‍💻 Je suis actuellement étudiant en deuxième année de Bachelor Web à l'école La Plateforme à Marseille.
 
-🔍 Je recherche une entreprise dans la région pour m'accueilir en alternance pour ma deuxième année.
+🔍 Je suis actuellement en Alternance dans l'entreprise New-Media, Filiale de l'agence Firstcom de Marseille.
 
 Mes coordonées : 
 
@@ -14,11 +14,8 @@ Email : rayan.ahamadi@laplateforme.io
 
 Linkedin : https://www.linkedin.com/in/rayan-ahamadi
 
- ```python
-    me = Student("Rayan", "AHAMADI", "rayan.ahamadi[at]laplateforme.io")
-    me.addInterests( [ "Python", "Logiciel", "Java", "Android","ios" ] )
-    length, begin = "2 ans minimum", "en Septembre 2023"
-    for interest in me.getInterests():
-        listen_to_me = f"Je recherche une alternance en {interest.upper()} pour {length} à partir de {begin}"
-        print(listen_to_me)```
+ ```javascript
+    let me = new Student("Rayan", "AHAMADI", "rayan.ahamadi[at]laplateforme.io")
+    me.addInterests( [ "Front", "CSS", "HTML", "Bootstrap","Javascript" ] )
+ 
 
