@@ -1,5 +1,3 @@
-![ezgif com-resize (1)](https://github.com/rayan-ahamadi/rayan-ahamadi/assets/115161695/f8d723d9-1e4b-41ee-8adf-a0313a7543d5)
-
 ### Salut ! 👋
 
 💻 Je m'appelle Rayan, un développeur web de Marseille en France. 
