@@ -13,7 +13,7 @@ Email : rayan.ahamadi@laplateforme.io
 Linkedin : https://www.linkedin.com/in/rayan-ahamadi
 
  ```javascript
-    let me = new Student("Rayan", "AHAMADI", "rayan.ahamadi[at]laplateforme.io")
+    const me = new Student("Rayan", "AHAMADI", "rayan.ahamadi[at]laplateforme.io")
     me.addInterests( [ "Front", "CSS", "HTML", "Bootstrap","Javascript" ] )
  
 
